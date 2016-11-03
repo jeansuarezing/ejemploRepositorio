@@ -12,7 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>Hello World!</h1>
+        <h1>Ejemplo Repositorio</h1>
         <%--
             out.print("<h1 style='border-bottom: 1px solid cyan'> Ejemplo de out </h1>");
             
